@@ -1,5 +1,18 @@
 # Sohotogel: Panduan Bermain Togel Online
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gambar dari GitHub</title>
+</head>
+<body>
+    <h1>Gambar dari GitHub</h1>
+    <img src="https://ik.imagekit.io/rc7e75qma/sohotogel.jpg" alt="Sohotogel"> 
+</body>
+</html>
+
 ## Tentang Sohotogel
 Sohotogel adalah situs togel online yang penuh dengan beragam jenis permainan terlengkap dan terbaik. Di sini, Anda bisa menemukan berbagai panduan lengkap untuk memulai dan meningkatkan strategi bermain togel online dengan lebih baik.
 
