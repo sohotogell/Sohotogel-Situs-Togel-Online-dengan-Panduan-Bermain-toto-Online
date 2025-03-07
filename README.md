@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gambar dari GitHub</title>
 </head>
 <body>
     <h1>Sohotogel: Panduan Bermain Togel Online</h1>
