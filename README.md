@@ -1,5 +1,3 @@
-# Sohotogel: Panduan Bermain Togel Online
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -8,7 +6,7 @@
     <title>Gambar dari GitHub</title>
 </head>
 <body>
-    <h1>Gambar dari GitHub</h1>
+    <h1>Sohotogel: Panduan Bermain Togel Online</h1>
     <img src="https://ik.imagekit.io/rc7e75qma/sohotogel.jpg" alt="Sohotogel"> 
 </body>
 </html>
